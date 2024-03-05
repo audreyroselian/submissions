@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data
-mergebike_df = pd.read_csv('mergebike.csv')
+mergebike_df = pd.read_csv('dashboard/mergebike.csv')
 
 st.title(':sparkles: PROYEK ANALISIS DATA :sparkles:')
 st.header('Bike Sharing Dataset')

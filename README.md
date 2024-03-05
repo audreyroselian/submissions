@@ -18,6 +18,6 @@ Aplikasi ini memuat beberapa visualisasi dan analisis sederhana terhadap dataset
 Aplikasi akan berjalan di browser Anda dan dapat diakses melalui alamat http://localhost:8501.
 
 ## Struktur Direktori
-app.py: File utama yang berisi kode Streamlit untuk aplikasi.
+dashboard.py: File utama yang berisi kode Streamlit untuk aplikasi.
 mergebike.csv: Dataset Bike Sharing yang digunakan dalam analisis.
 requirements.txt: Daftar dependencies yang diperlukan untuk menjalankan aplikasi.
